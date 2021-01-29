@@ -1,0 +1,30 @@
+body {
+  margin:auto;
+  padding:auto;
+}
+
+
+.form {
+  color: pink;
+
+}
+
+.container  {
+margin: auto;
+
+}
+
+.card {
+  background: lightgrey;
+margin-top: 1rem;
+text-align: center;
+padding: 1rem;
+display: block;
+top: 50%;
+position: relative;
+}
+.form-check-inline {
+  margin-left: 10px;
+}
+.btn {
+}
